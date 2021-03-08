@@ -23,8 +23,8 @@ sudo chmod +x start.sh
 ```
 Then save the file.
 ```
-chmod +x start.sh
-./start.sh
+chmod +x install.sh
+./install.sh
 ```
 
 ## How to use
